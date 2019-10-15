@@ -2,8 +2,6 @@
 
 Dataset Link: https://www.kaggle.com/ankkur13/boston-crime-data
 
-Group Members: Riddhi Kadam, Ashvit Shetty
-
 Our aim for the project is to prepare a data visualization representing the Crime Rates in Boston.
 This dataset contains data from year 2015 to 2018. With this project we aim at assisting the local police departments who are often called upon to prevent crime and keep order. It is impossible to be present everywhere at the same time. Hence this visualization which aims to represent information about where the crimes take place, what are the major types of crime that take place in Boston and much more would ease their job. Thus, providing the local authorities with more guidance on where and how they need to deploy their forces to reduce the crimes.
 Dataset and Software:
